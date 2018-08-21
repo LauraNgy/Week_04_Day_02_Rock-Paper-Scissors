@@ -1,0 +1,21 @@
+body {
+  background-color: lightgreen;
+}
+
+p, h1 {
+  color: ForestGreen;
+}
+
+li {
+  display: inline-block;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: darkgreen;
+}
+
+a:hover{
+  color: teal;
+}
